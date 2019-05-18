@@ -1,0 +1,14 @@
+{
+  "name": "common-child",
+  "version": "1.0.0",
+  "description": "HackerRank Common Child challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Rani Mazine",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
